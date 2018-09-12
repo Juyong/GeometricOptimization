@@ -6,7 +6,7 @@
 
 ## 数值优化基础
 
-[辛士庆](http://www.cs.sdu.edu.cn/zh/~xinshiqing)：无约束优化，如线性方程组求解、牛顿法、拟牛顿法等，[课件]()
+[辛士庆](http://www.cs.sdu.edu.cn/zh/~xinshiqing)：无约束优化，如线性方程组求解、牛顿法、拟牛顿法等，[课件](https://github.com/Juyong/GeometricOptimization/blob/master/Slides/UnConstrainedOpt.pdf)
 
 [邓柏林](http://www.bdeng.me/)：带约束优化，如ADMM算法等，以及稀疏模型介绍，[课件](https://github.com/Juyong/GeometricOptimization/blob/master/Slides/ConstrainedOpt.pdf)
 
@@ -16,7 +16,7 @@
 
 [傅孝明](http://staff.ustc.edu.cn/~fuxm/)：参数化、变形、网格生成，[课件](https://github.com/Juyong/GeometricOptimization/blob/master/Slides/Mapping.pdf)
 
-[辛士庆](http://www.cs.sdu.edu.cn/zh/~xinshiqing)：测地线及其求解，[课件]()
+[辛士庆](http://www.cs.sdu.edu.cn/zh/~xinshiqing)：测地线及其求解，[课件](https://github.com/Juyong/GeometricOptimization/blob/master/Slides/GeodesicComputing.pdf)
 
 [邓柏林](http://www.bdeng.me/)：物理模拟、Fabrication，以及带几何约束优化问题的Local-Global求解算法，[课件](https://github.com/Juyong/GeometricOptimization/blob/master/Slides/LocalGlobal.pdf)
 
